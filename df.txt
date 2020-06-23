@@ -1,0 +1,11 @@
+Was isst du zum Fruhstuck
+Co jesz na śniadanie
+
+was trinkst du zum Fruhstuck
+Co Pijesz Na Śniadanie
+
+
+
+
+
+tcp://waterwolf86-20188.portmap.io:27769 => 21 
